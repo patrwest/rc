@@ -1,0 +1,4 @@
+#!/bin/rc
+
+
+ircs -e Ahpuc irc.oftc.net

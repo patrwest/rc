@@ -1,0 +1,4 @@
+#!/bin/rc
+
+
+ircx -t '#cat-v'
